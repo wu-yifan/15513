@@ -1,1 +1,0 @@
-isPower2
